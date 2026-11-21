@@ -1,0 +1,13 @@
+{
+  "name": "moonlit-beach-theme",
+  "description": "Moonlit beach: an animated pixel-art night-shore theme for the Claude desktop app",
+  "owner": {
+    "name": "firnspiegel"
+  },
+  "plugins": [
+    {
+      "name": "moonlit-beach",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+This license covers the mod's own code (hooks/register.tsx and the
+configuration files) only.
+
+- hooks/scene.ts holds the artwork itself, drawn as SVG. The characters in it
+  (Claude-chan, based on a fan character design by ZipZipPipe, and Clawd, the
+  Claude Code mascot by Anthropic) belong to their respective owners and are
+  NOT licensed under MIT. The artwork is for personal, non-commercial use only.
+- hooks/make-colors.js and hooks/make-colors.d.ts are provided by Claude Code's
+  plugin-authoring skill for mods to copy as they are, and are not covered by
+  this repository's license.
+
+This is an unofficial fan project and is not affiliated with Anthropic.
